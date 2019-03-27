@@ -9,7 +9,7 @@
 </head>
 <body>
 	<div align="center">
-		<h1>You have entered worng details</h1>
+		<h1>User Not Found</h1>
 	</div>
 
 </body>
